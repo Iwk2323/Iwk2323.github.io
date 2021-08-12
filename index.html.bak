@@ -166,11 +166,11 @@
     
 
 
-<div class="post-block" background="bg.jpg">
+<div class="post-block" background-image: url(/bg.jpg)>
   
   
 
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="" background="bg.jpg>
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="" >
     <link itemprop="mainEntityOfPage" href="http://yoursite.com/2020/08/24/%E4%BD%A0%E7%9C%8B%E8%A7%81%E4%BA%86%E5%90%97%EF%BC%9F/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -184,7 +184,7 @@
     </span>
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
-          <a href="/2020/08/24/%E4%BD%A0%E7%9C%8B%E8%A7%81%E4%BA%86%E5%90%97%EF%BC%9F/" class="post-title-link" itemprop="url" background="bg.jpg>你看见了吗？</a>
+          <a href="/2020/08/24/%E4%BD%A0%E7%9C%8B%E8%A7%81%E4%BA%86%E5%90%97%EF%BC%9F/" class="post-title-link" itemprop="url" >你看见了吗？</a>
         </h2>
 
         <div class="post-meta-container">
